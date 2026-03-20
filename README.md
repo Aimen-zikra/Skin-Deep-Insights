@@ -236,4 +236,3 @@ The methodology is transferable to any review-based product domain: e-commerce, 
 
 **Aimen Zikra** — Data Analyst  
 Python · SQL · NLP · Data Visualization  
-[GitHub](https://github.com/Aimen-zikra) 
